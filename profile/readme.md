@@ -1,4 +1,4 @@
-# Glass Canvas
+# <img src="https://github.com/glass-canvas/.github/assets/16711653/14ca02c3-e9de-4278-800b-b295e56fd445" width="20" /> &nbsp;&nbsp; Glass Canvas 
 
 Unlock your ministry potential. Ministry, marketing, and tech experts building tools and strategy for Diocese, churches, and ministries.
 
